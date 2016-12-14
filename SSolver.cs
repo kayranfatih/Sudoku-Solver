@@ -117,7 +117,7 @@ namespace SudokuSolver
             }
 
             return true;
-        }
+        } 
         public bool ColumnCheck(int x, int y)
         {
             for (int j = 0; j < 9; j++)
