@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Iterative Sudoku Solver Utility
+Recursive Sudoku Solver Utility
 
 The Algorithm solves a sudoku approximately 10 seconds.
 
